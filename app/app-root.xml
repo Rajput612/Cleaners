@@ -1,0 +1,8 @@
+<TabView>
+    <TabViewItem title="Services" iconSource="res://home">
+        <Frame defaultPage="views/services/services-page" />
+    </TabViewItem>
+    <TabViewItem title="Calendar" iconSource="res://calendar">
+        <Frame defaultPage="views/calendar/calendar-page" />
+    </TabViewItem>
+</TabView>
